@@ -1,11 +1,7 @@
 
 
 const fetchedArray = []
-
-
-
 window.onload = () => {
-
    fetchData()
 
 }
@@ -41,3 +37,7 @@ inputValue.onchange = function(event){
    console.log(currentValue)
     
 }
+
+
+
+
